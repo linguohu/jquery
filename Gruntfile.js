@@ -1,3 +1,7 @@
+function aa {
+	
+}
+
 module.exports = function( grunt ) {
 	"use strict";
 
